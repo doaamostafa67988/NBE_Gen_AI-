@@ -7,6 +7,10 @@ An intelligent chatbot that analyzes social media comments, detects user sentime
 Managing large volumes of comments on social media platforms can be challenging for businesses and content creators. This project automates the process by combining sentiment analysis, web-scraped knowledge sources, and Large Language Models (LLMs) to generate relevant and personalized responses.
 
 The system analyzes user comments, determines their sentiment, retrieves supporting information from a knowledge base, and generates human-like replies tailored to the context of the conversation.
+## Demo
+
+https://github.com/user-attachments/assets/0b9758fd-d5ed-4260-800e-d84667cb74e5
+
 
 ## Features
 
